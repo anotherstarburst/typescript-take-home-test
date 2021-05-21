@@ -1,15 +1,15 @@
-![comeon-javascript-test-site](http://b5fa2dae67bf7ee0b0e5-e0d56d540e31d5f2f9430984d20d712d.r41.cf3.rackcdn.com/comeon-javascript-test_3.png)
-# comeon-javascript-test
 
-Applicant's test for Javascript coders.
+# TypeScript take home test
+
+Applicant's test for engineers coming aboard to write TypeScript.
 
 ## Assignment Overview
 
-The assignment is to use Javascript to tie together existing HTML and data to create a minimal, working casino website.
+The assignment is to use TypeScript to tie together existing HTML and data to create a minimal, working casino website.
 
 Basic HTML, CSS, images and JSON data is provided, however, feel free to impress by changing and enhancing any of these parts for an even better experience!
 
-Your mission is to provide the Javascript code that makes the parts work as described, below.
+Your mission is to provide the TypeScript code that makes the parts work as described, below.
 **Feel free to use any other openly available library for validation, templating, dependency injection, etc.**
 
 ## Assignment Criteria
@@ -18,7 +18,7 @@ We want to see how you approach and solve a problem, as well as look at code sty
 Do take your time to do it right, rather than fast.
 Extra effort to improve on the "website" will be noted. :)
 
-While the test is primarily focused on Javascript, by all means use or change the HTML or CSS when that makes sense.
+While the test is primarily focused on TypeScript, by all means use or change the HTML or CSS when that makes sense.
 
 Be prepared to discuss your choices and code when delivered.
 
@@ -149,14 +149,12 @@ The div with id game-launch will be replaced with an object tag that loads the g
 
 ## More info
 
-- Use of React is encouraged.
+- Use of Angular is encouraged.
 - Use of [jQuery](https://jquery.com/) is discouraged. 
 - External libraries used in this test: [Semantic UI](http://semantic-ui.com/), [json-server](https://github.com/typicode/json-server)
 
-## Found a bug?
-
-Pull requests welcome, and maybe [we have a job for you](http://jobs.comeon.com/)? :)
-
 ## How to Submit the Home Assignment
-Please, send us your code in a compressed file in an email.
+Please, send us your code in a compressed file in an email, along with instructions on how to get it up and running.
 
+## Thanks to
+With thanks to the Comeon group and their JavaScript test: https://github.com/comeon-group/comeon-javascript-test
